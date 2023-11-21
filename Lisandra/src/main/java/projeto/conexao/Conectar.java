@@ -8,8 +8,8 @@ import java.sql.*;
 public class Conectar {
 
     private String url = "jdbc:mysql://localhost:3306/NEXUS";
-    private String user = "root";
-    private String passwd = "lisandracunha";
+    private String user = "nexus_user";
+    private String passwd = "nexus123";
 
     private Menu menu = new Menu();
 
